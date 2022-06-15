@@ -1,0 +1,20 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-style{
+    background-color: #E76F51;
+    padding: 10px 24px;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+.text-style{
+    color: #E76F51;
+    border: 1px solid #E76F51;
+    padding: 10px 24px;
+    border-radius: 5px;
+}
+.txt-color{
+    color: #E76F51;  
+}
