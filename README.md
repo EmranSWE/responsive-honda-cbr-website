@@ -1,12 +1,12 @@
 
-## Responsive Honda CBR Website
+# Responsive Honda CBR Website
 
 Technology I used in this website:
-# HTML
-# vanilla css
-# BBootstrap v5.2
+## HTML
+## Vanilla css
+## Bootstrap v5.2
 
-## About The website:
+# About The website:
 This is Responsive Honda CBR landing pages. This website has many several section.
 In the top: Header section ,where user can see:
 *the menubar and 
