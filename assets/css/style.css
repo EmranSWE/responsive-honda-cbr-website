@@ -5,8 +5,11 @@ body{
     background-color: #E76F51;
     padding: 10px 24px;
     border-radius: 5px;
-    border: none;
-    
+    border: none; 
+}
+.img-style:hover img{
+    transition: all 2s ease-in;
+   transform: scale(1.2);
 }
 
 .text-style{
